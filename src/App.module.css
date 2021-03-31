@@ -14,10 +14,13 @@ body {
   margin-top: 50px;
 }
 
-@media (maax-width: 770px) {
+@media (max-width: 770px) {
+
+  .image {
+    width: 90%;
+  }
+
   .container {
     margin: 0 10%;
   }
-
-
 }
